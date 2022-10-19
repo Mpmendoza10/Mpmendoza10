@@ -9,10 +9,10 @@
 
 <h2>👨‍💻 Sauce & Spoon Project (Project Management):</h2>
 
-- <b>SalesForce & Slack Integration Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Salesforce Nurse Unit Management App builder Project</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Sauce & Spoon Project Charter</b>
+  - [Sauce & Spoon Project Charter](https://docs.google.com/document/d/16OvZFx51PFfoRfn-ChlSMRbsybcTYTaHiCl3lH7AwNQ/edit?resourcekey=0-BpnC7dJGzdJFdT-bzbaydw)
+- <b>Sprint & Product Backlog</b>
+  - [Sprint Backlog & Product Backlog documentation](https://docs.google.com/spreadsheets/d/1u8dx2SkfBu2leBDLVRHPHhD-f11IR8OPGkSde0cun9g/edit#gid=110839419)
   
  <h2>👨‍💻 Tableau/SQL Projects:</h2>
   -<b></b>
