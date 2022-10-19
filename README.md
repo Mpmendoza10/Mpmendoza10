@@ -3,7 +3,7 @@
 <h2>👨‍💻 Salesforce Projects:</h2>
 
 - <b>SalesForce & Slack Integration Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SalesForce & Slack Integration Project](https://github.com/Mpmendoza10/Salesforce-Slack-Integration-Project)
 - <b>Salesforce Nurse Unit Management App builder Project</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
