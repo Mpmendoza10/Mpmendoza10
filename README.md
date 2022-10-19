@@ -5,7 +5,7 @@
 - <b>SalesForce & Slack Integration Project</b>
   - [SalesForce & Slack Integration Project](https://github.com/Mpmendoza10/Salesforce-Slack-Integration-Project)
 - <b>Salesforce Nurse Unit Management App builder Project</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Salesforce Nurse Unit Management App Builder Project](https://github.com/Mpmendoza10/Salesforce-Nurse-Unit-Management-App)
 
 <h2>👨‍💻 Sauce & Spoon Project (Project Management):</h2>
 
