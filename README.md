@@ -13,6 +13,8 @@
   - [Sauce & Spoon Project Charter](https://docs.google.com/document/d/16OvZFx51PFfoRfn-ChlSMRbsybcTYTaHiCl3lH7AwNQ/edit?resourcekey=0-BpnC7dJGzdJFdT-bzbaydw)
 - <b>Sprint & Product Backlog</b>
   - [Sprint Backlog & Product Backlog documentation](https://docs.google.com/spreadsheets/d/1u8dx2SkfBu2leBDLVRHPHhD-f11IR8OPGkSde0cun9g/edit#gid=110839419)
+- <b>Project Status Report</b>
+  - [SProject Status Report documentation](https://docs.google.com/spreadsheets/d/1M2wArRgQ2ahMIPUF0yBczM14nJJyqF99ysBHtWxmvjY/edit?resourcekey=0-I4JUF2c-APni0jHlGO9g8g#gid=423863049)
   
  <h2>👨‍💻 Tableau/SQL Projects:</h2>
   -<b></b>
